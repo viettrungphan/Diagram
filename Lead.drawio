@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T02:06:11.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wdJw9OJCCob5UduPNbdx" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T03:19:36.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="quMoguiad1uHFd-SmJSk" version="22.1.9" type="github">
   <diagram name="Page-1" id="Gr23uI03_NgFq6jHIthI">
-    <mxGraphModel dx="1377" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2295" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-1" value="Strong Technical" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-2" value="Team Success" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="780" y="20" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-6" value="What ever make team success" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-7" value="Up to you. Code alot, still code alot. Sometime write feture for team" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-8" value="Pair with person, guild them" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-9" value="Monitor. Make them not depend on you.&lt;br&gt;You&#39;re not a bottle neck" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-10" value="Make people better even than you so they can take your pos and u step up" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-11" value="Produce alot" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-12" value="Don&#39;t work alone.&lt;br&gt;Can&#39;t be a leader if no following" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-13" value="Make top decisions .&lt;br&gt;Take a risk" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-14" value="When things goes bad, take a plan and help team success.&lt;br&gt;How can we avoid this next time" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-15" value="Hire, Interview, Review, Feedback, Trainning." style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-16" value="Planning. Thing team actions, your actions, communication&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-17" value="Financial just a reward of previous factors" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-18" value="Help people maximize their strong and minimal they weakened.&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-19" value="Empathy. Make sure we&#39;re alignment, understanding, how people feel and make the right actions" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-20" value="Process (Review, Securities)" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-21" value="Proactive, set high standards for the team, If they not meet, should do trainning for them" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-22" value="Build the team with high standard&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-23" value="Thing about the sort tearm and long term games" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-24" value="Grow mindset." style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-25" value="Foreseen what will going, Trainning, hire iff needed." style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-26" value="&lt;h1&gt;&lt;font&gt;Warning&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font&gt;Some company just pick the best developer to lead position, leader don&#39;t have to be a best developer&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;labelBackgroundColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="20" width="715" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-27" value="Decisions today will impact the feature" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-28" value="" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-29" value="" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-30" value="" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-31" value="&lt;b&gt;Build excellent skill first. Like Senior first.&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-32" value="&lt;b&gt;Don&#39;t need a title&lt;br&gt;Need followers with good attitudes to help team success&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-33" value="Team lead also need excellent technical skills, otherwise Manager" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-34" value="Need people surround good than you so you can learn from them. Black belt make better black belt than them." style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-35" value="You don&#39;t need the best developer in the team" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Baep_c4DBH1ZLhzf-aJX-36" value="Have a strong foundation&lt;br&gt;or no team to lead.&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;cloneable=1;flipH=1;flipV=0;fillColor=#cdeb8b;strokeColor=#36393d;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
